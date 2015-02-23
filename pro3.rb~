@@ -1,0 +1,3 @@
+["saronsaji","evelin","vino","janani","shalu","santhosh"].each do |a|
+puts a if(a.length <= 3)
+end
