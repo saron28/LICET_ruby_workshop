@@ -1,0 +1,5 @@
+(1..100).each do |no|
+print "fis" if no%8==0
+print "bus" if no%3==0
+elsif no%8||no%3
+print "fis and bus"
